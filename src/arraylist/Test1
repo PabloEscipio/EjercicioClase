@@ -1,0 +1,9 @@
+/*
+Hace un programa para trabajar con paises con el siguiente menu:
+1-añadir un nombre al array
+2-Mostrar todos los nombres
+3-Eliminar un nombre si existe
+Trabajar con la consola
+0-salir
+do-wh
+*/
